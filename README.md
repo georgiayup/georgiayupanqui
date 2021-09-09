@@ -1,2 +1,2 @@
 # georgiayupanqui
-Soy toxicología y especialista en #datascience 
+#Una toxicologa incursionando en Ciencia de Datos 
