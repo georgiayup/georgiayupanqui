@@ -10,7 +10,8 @@
 	#Smiling Face With Hearts
 	print( "Hola","\U0001F970")
 	Hola 🥰
-**Lo que veremos como respuesta** :
+	
+	Lo que veremos como respuesta** :
 	😀
 	Hola 🥰
 
@@ -24,9 +25,9 @@
 	print("Pero porque no sales" ,"\N{smiling face with horns}")
 	print("\U0001F600")
 	
-Lo que veremos como respuesta :
-Pero porque no sales 😈
-😀
+	Lo que veremos como respuesta :
+	Pero porque no sales 😈
+	😀
 	
 # *CHALLENGE:* **Hagamos una posible conversación**
 
